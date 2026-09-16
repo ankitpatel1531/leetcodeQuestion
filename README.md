@@ -72,6 +72,7 @@
 | [0027-remove-element](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0283-move-zeroes) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0125-valid-palindrome) |
 | [3941-password-strength](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/3941-password-strength) |
 ## Enumeration
 |  |
