@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
