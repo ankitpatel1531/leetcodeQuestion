@@ -11,6 +11,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
