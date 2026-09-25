@@ -21,6 +21,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/0977-squares-of-a-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ankitpatel0/leetcodeQuestion/tree/master/1929-concatenation-of-array) |
